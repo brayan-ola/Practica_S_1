@@ -1,0 +1,21 @@
+h1,p,h2{
+    text-align: center;
+}
+*{
+    background-color: #3B3486;
+    color: white;
+}
+li{
+    display: flex;
+  justify-content: center;
+}
+img{
+    height: 25%;
+    width: 50%;
+    position: center;
+}
+#BU{
+    background-color: #80BCBD;
+    color: #365486;
+    font-size: 200%;
+}
